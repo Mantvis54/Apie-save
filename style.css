@@ -1,0 +1,37 @@
+body {
+    background: lightblue;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+.ft {
+    text-align: center;
+}
+
+img {
+    height: 380px;
+    width: 280px;
+}
+
+h1.heading {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.in {
+    border: 5px solid gold;
+    border-width: 30px;
+    border-radius: 50% 20% / 10% 40%;
+    border-style: groove;
+    background: blue;
+}
+
+.text {
+    display: inline;
+    text-align: center;
+    font-size: 20px;
+    margin: 20px;
+    padding: 20px;
+}
